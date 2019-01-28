@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-relationship -p 4000 data.json --routes routes.json --host 0.0.0.0 --middlewares singular.js",
+    "generate": "json-server-relationship -p 4010 --host 0.0.0.0 generate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server-relationship": "^0.14.4",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "moment": "^2.22.2",
+    "pluralize": "^5.0.0",
+    "save": "^2.3.2"
+  }
+}

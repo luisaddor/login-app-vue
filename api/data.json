@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cheyenne Zemlak",
+      "title": "Senior Paradigm Strategist",
+      "username": "Sherman22",
+      "password": 65687
+    },
+    {
+      "id": 2,
+      "name": "Callie Klocko",
+      "title": "Direct Data Manager",
+      "username": "Vernon.Keebler",
+      "password": 61512
+    },
+    {
+      "name": "Luis Addor",
+      "title": "front",
+      "username": "luisaddor",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Maria Joana",
+      "title": "HR Manager",
+      "username": "mariajoana",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "login": {
+    "token": "jwt_token"
+  }
+}
