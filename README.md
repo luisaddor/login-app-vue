@@ -27,9 +27,9 @@ npm start
 Estrutura de componentes e views da aplicação, com seus controles de estado e rotas.
 
 Na estrutura geral foi Utilizado:
-Vue.js - Para a estrutura de componentes
-Vuex - Para controle de estados e dispatch de actions.
-Router - Para o controle de rotas.
+- Vue.js - Para a estrutura de componentes
+- Vuex - Para controle de estados e dispatch de actions.
+- Router - Para o controle de rotas.
 
 Como setup inicial foi utilizado vue.cli, 
 e incluido a biblioteca do element-ui para facilitar na contrução da interface.
