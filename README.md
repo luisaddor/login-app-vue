@@ -32,7 +32,7 @@ Na estrutura geral foi Utilizado:
 - Router - Para o controle de rotas.
 
 Como setup inicial foi utilizado vue.cli, 
-e incluido a biblioteca do element-ui para facilitar na contrução da interface.
+e incluido a biblioteca do element-ui para facilitar na construção da interface.
 
 #### Setup
 ```
